@@ -1,2 +1,2 @@
 # My_Certificates
-This is a repo consisting all the certificate that i have earned.
+A living record of professional growth and achievement. This repository contains all certifications I've earned, reflecting my commitment to continuous learning and skill advancement across multiple disciplines.
